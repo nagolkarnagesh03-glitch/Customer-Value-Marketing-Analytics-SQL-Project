@@ -58,3 +58,24 @@ Full SQL code and findings are documented in `Customer_Value_Marketing_Insights_
 
 ## Skills Demonstrated
 `SQL` · `MySQL` · `Data Cleaning` · `Customer Segmentation (RFM/CLV)` · `Business Analytics` · `Marketing Analytics` · `Risk Analysis` · `Data-Driven Decision Making`
+
+
+
+
+
+
+
+
+
+resume points (ATS-optimized, keyword-rich) — copy-paste ready:
+Option A:
+
+Analyzed 9,000+ customer records using MySQL to perform data cleaning, customer segmentation, and CLV (Customer Lifetime Value) analysis, identifying high-value customer tiers driving disproportionate revenue.
+
+Option B:
+
+Wrote 15+ SQL queries (aggregations, CASE-based segmentation, window functions) to evaluate marketing campaign effectiveness across sales channels, improving actionable insight into channel-wise conversion and ROI.
+
+Option C:
+
+Conducted risk and profitability analysis on insurance policy data using MySQL, calculating loss ratios and identifying at-risk/churn-prone customers to support data-driven retention strategy.
